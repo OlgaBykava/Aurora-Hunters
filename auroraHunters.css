@@ -51,6 +51,10 @@ a1{
 p1,p2{
     margin: 0% 0%;
 }
+p2{
+
+    font-size: 50%;
+}
 .links{
     position: absolute;
     margin-left: 40%;
